@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppBot", "WebAppBot\WebAppBot.csproj", "{021453A9-3CF6-4CFC-A65C-C04BDE971B71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "BL\BL.csproj", "{1175FDA3-E51C-41F0-A399-3FC384B29AF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{021453A9-3CF6-4CFC-A65C-C04BDE971B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021453A9-3CF6-4CFC-A65C-C04BDE971B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021453A9-3CF6-4CFC-A65C-C04BDE971B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021453A9-3CF6-4CFC-A65C-C04BDE971B71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1175FDA3-E51C-41F0-A399-3FC384B29AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1175FDA3-E51C-41F0-A399-3FC384B29AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1175FDA3-E51C-41F0-A399-3FC384B29AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1175FDA3-E51C-41F0-A399-3FC384B29AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {847AD1A4-3770-4BEC-B98E-50A9605A3998}
+	EndGlobalSection
+EndGlobal
